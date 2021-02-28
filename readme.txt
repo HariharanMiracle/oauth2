@@ -1,1 +1,1 @@
-This is a simple page connecting jsp with springboot
+This is a sample OAuth2 project

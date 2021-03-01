@@ -5,8 +5,7 @@
 </head>
 <body>
     <div>
-        Welcome to Home page!
-        <a href = "http://localhost:9092/user">User</a>
+        Welcome user
     </div>
 </body>
 </html>
